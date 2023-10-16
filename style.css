@@ -5,6 +5,7 @@ padding:20px;
 
 nav li {
 display: inline;
+margin: 0 0 0 15px;
 }
 
 nav a {
@@ -15,9 +16,9 @@ font-size: 22px;
 text-decoration: none;
 }
 
-nav{
+nav {
 posotion:absolute;
-top : 0;
+top : 110px;
 right: 0;
 }
 
@@ -30,4 +31,10 @@ margin: 0 0 0 15px;
 width: 940px;
 position:relative;
 margin: 0 auto;
+}
+
+.produtos {
+width: 940px;
+margin: 0 auto;
+padding: 50px 0:
 }
